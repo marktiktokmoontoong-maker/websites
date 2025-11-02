@@ -1,4 +1,4 @@
-# User manual
+Realme Narzo 50a
 
 [[toc]]
 
